@@ -1794,7 +1794,7 @@ figure:hover figcaption {
 .flexslider .flex-control-paging,
 .flexslider2 .flex-control-paging {
     position: absolute;
-    bottom: 30px;
+    bottom: 70px;
     z-index: 20
 }
 .flexslider .flex-direction-nav a,
